@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sauceShop:war">
+    <output-path>$PROJECT_DIR$/sauceShop/target</output-path>
+    <root id="archive" name="sauceShop.war">
+      <element id="artifact" artifact-name="sauceShop:war exploded" />
+    </root>
+  </artifact>
+</component>
